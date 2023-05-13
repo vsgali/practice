@@ -1,0 +1,12 @@
+Git Merge
+Git Rebase
+Git Stash
+Git Cherry-Pick
+
+Today we focus on multipe subscriptions
+We need Total 4 keys only subscription key will change rem same
+In Azure 
+Create a custom active directory
+clients and secrets will give secrte key
+add directory in subscription -> Iam 
+then work on terraform
